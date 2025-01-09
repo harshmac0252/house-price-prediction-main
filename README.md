@@ -23,7 +23,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone {url}
+   git clone https://github.com/harshmac0252/house-price-prediction-main.git
    ```
 
 2. **Navigate to the Project Directory:**
