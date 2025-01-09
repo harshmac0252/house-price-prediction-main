@@ -28,7 +28,7 @@
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd house-price-prediction
+   cd house-price-prediction-main
    ```
 
 3. **Create a Virtual Environment (if not already created):**
@@ -63,7 +63,7 @@
 
 9. **In a new terminal, navigate to the Client Directory:**
    ```bash
-   cd house-price-prediction/client
+   cd house-price-prediction-main/client
    ```
 
 10. **Run the HTML file:**
