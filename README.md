@@ -81,3 +81,8 @@
       ```bash
       xdg-open index.html
       ```
+
+##  📈 Prediction Page
+
+
+<img width="417" alt="image" src="https://github.com/user-attachments/assets/7a2fed09-707d-4a5d-9182-19452f10f748" />
